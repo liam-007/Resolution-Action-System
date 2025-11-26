@@ -25,6 +25,11 @@ and includes clean UI design, proper exception handling, and working seeded data
 
 
 ![Create Meeting](https://raw.githubusercontent.com/liam-007/Resolution-Action-System/main/Screenshots/Screenshot%202025-11-26%20145249.png)
+![Create Meeting](https://raw.githubusercontent.com/liam-007/Resolution-Action-System/main/Screenshots/Screenshot%202025-11-26%20145503.png)
+![Create Meeting](https://raw.githubusercontent.com/liam-007/Resolution-Action-System/main/Screenshots/Screenshot%202025-11-26%20145714.png)
+![Create Meeting](https://raw.githubusercontent.com/liam-007/Resolution-Action-System/main/Screenshots/Screenshot%202025-11-26%20145741.png)
+
+
 
 
 ### **Meeting Details Page**
