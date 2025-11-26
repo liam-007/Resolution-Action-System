@@ -1,0 +1,60 @@
+﻿@model MeetingMinutes.Models.MeetingItemStatus
+
+<div class="container mt-4">
+
+    <!-- Show controller-level error messages -->
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    <!-- Only shows validation summary when there are model errors -->
+    @if (!ViewData.ModelState.IsValid)
+    {
+        @Html.ValidationSummary(false, "", new { @class = "alert alert-danger" })
+    }
+
+
+    <div class="card">
+        <div class="card-body">
+            <h2 class="card-title mb-4">Update Status</h2>
+
+            <div class="mb-3">
+                <p><strong>Item:</strong> @Model.MeetingItem?.Title</p>
+                <p><strong>Responsible:</strong> @Model.MeetingItem?.ResponsiblePerson</p>
+            </div>
+
+            <form asp-action="UpdateStatus" method="post">
+
+                <!-- Hidden fields required for global update -->
+                <input type="hidden" asp-for="StatusId" />
+                <input type="hidden" asp-for="MeetingItemId" />
+                <input type="hidden" asp-for="MeetingId" />
+
+                <div class="mb-3">
+                    <label class="form-label">Status</label>
+                    <select asp-for="Status" class="form-select">
+                        <option>Open</option>
+                        <option>In Progress</option>
+                        <option>Closed</option>
+                    </select>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Comment</label>
+                    <textarea asp-for="Comment" rows="3" class="form-control"></textarea>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Save</button>
+            </form>
+
+            <div class="mt-4">
+                <a asp-action="Details" asp-route-id="@Model.MeetingId">Back to Meeting</a>
+                <span> | </span>
+                <a asp-controller="Home" asp-action="Index">Home</a>
+            </div>
+        </div>
+    </div>
+</div>

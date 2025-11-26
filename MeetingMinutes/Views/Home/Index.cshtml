@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container mt-5">
+
+    <div class="text-center mb-4">
+        <h2 class="fw-bold">Resolution Action System</h2>
+        <p class="text-muted">Please select an option below</p>
+    </div>
+
+    <div class="d-flex justify-content-center">
+        <div class="d-flex flex-column gap-3" style="width:260px;">
+
+            <a asp-controller="Meeting"
+               asp-action="Create"
+               class="btn btn-primary btn-lg">
+                Capture New Meeting
+            </a>
+
+            <a asp-controller="Meeting"
+               asp-action="Index"
+               class="btn btn-outline-primary btn-lg">
+                Update Existing Meetings
+            </a>
+
+            <a asp-controller="Home"
+               asp-action="Exit"
+               class="btn btn-danger btn-lg">
+                Exit
+            </a>
+
+        </div>
+    </div>
+
+</div>

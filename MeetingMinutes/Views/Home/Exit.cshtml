@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Exit";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="card shadow-sm text-center">
+                <div class="card-body">
+
+                    <div class="mb-3">
+                        <span style="font-size: 50px;">👋</span>
+                    </div>
+
+                    <h2 class="card-title mb-3">You have exited the Resolution Action System</h2>
+
+                    <p class="text-muted mb-4">
+                        You may now safely close this browser tab or window.
+                    </p>
+
+                    <a asp-controller="Home"
+                       asp-action="Index"
+                       class="btn btn-primary">
+                        Return to Home
+                    </a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

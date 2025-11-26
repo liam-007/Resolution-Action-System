@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\views\\meeting\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:views\\meeting\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\views\\meeting\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:views\\meeting\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\views\\home\\exit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:views\\home\\exit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\views\\meeting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:views\\meeting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\views\\meeting\\updatestatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:views\\meeting\\updatestatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\viewmodels\\createmeetingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:viewmodels\\createmeetingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\viewmodels\\meetingitemselectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:viewmodels\\meetingitemselectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\data\\meetingminutescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:data\\meetingminutescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\models\\meetingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:models\\meetingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\models\\meetingitemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:models\\meetingitemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\models\\meetingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:models\\meetingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\models\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:models\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|c:\\users\\liama\\source\\repos\\meetingminutes\\meetingminutes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DB55F0B-056D-4AC1-8DC8-D31BC78CE9D0}|MeetingMinutes.csproj|solutionrelative:meetingminutes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:40:08.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Views\\Meeting\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\Create.cshtml",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Views\\Meeting\\Create.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T20:33:42.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Views\\Meeting\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\Details.cshtml",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Views\\Meeting\\Details.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T22:42:48.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Views\\Meeting\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\Index.cshtml",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Views\\Meeting\\Index.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T14:00:52.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Views\\Meeting\\UpdateStatus.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\UpdateStatus.cshtml",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Views\\Meeting\\UpdateStatus.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\UpdateStatus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T14:09:33.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeetingController.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Controllers\\MeetingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MeetingController.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Controllers\\MeetingController.cs",
+              "RelativeToolTip": "Controllers\\MeetingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:22:15.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:38:40.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T21:08:07.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exit.cshtml",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Views\\Home\\Exit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Exit.cshtml",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Views\\Home\\Exit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Exit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T15:27:06.947Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-25T21:10:26.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateMeetingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\ViewModels\\CreateMeetingViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CreateMeetingViewModel.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\ViewModels\\CreateMeetingViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CreateMeetingViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:20:08.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T20:37:15.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MeetingItemSelectionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\ViewModels\\MeetingItemSelectionViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MeetingItemSelectionViewModel.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\ViewModels\\MeetingItemSelectionViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MeetingItemSelectionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:19:13.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MeetingMinutesContext.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Data\\MeetingMinutesContext.cs",
+              "RelativeDocumentMoniker": "Data\\MeetingMinutesContext.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Data\\MeetingMinutesContext.cs",
+              "RelativeToolTip": "Data\\MeetingMinutesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:10:17.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MeetingType.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Models\\MeetingType.cs",
+              "RelativeDocumentMoniker": "Models\\MeetingType.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Models\\MeetingType.cs",
+              "RelativeToolTip": "Models\\MeetingType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:49:27.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MeetingItemStatus.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Models\\MeetingItemStatus.cs",
+              "RelativeDocumentMoniker": "Models\\MeetingItemStatus.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Models\\MeetingItemStatus.cs",
+              "RelativeToolTip": "Models\\MeetingItemStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:55:22.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MeetingItem.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Models\\MeetingItem.cs",
+              "RelativeDocumentMoniker": "Models\\MeetingItem.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Models\\MeetingItem.cs",
+              "RelativeToolTip": "Models\\MeetingItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:54:47.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Meeting.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Models\\Meeting.cs",
+              "RelativeDocumentMoniker": "Models\\Meeting.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Models\\Meeting.cs",
+              "RelativeToolTip": "Models\\Meeting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:54:06.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T20:37:10.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T20:37:13.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:03:45.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T12:40:34.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MeetingMinutes.csproj",
+              "DocumentMoniker": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\MeetingMinutes.csproj",
+              "RelativeDocumentMoniker": "MeetingMinutes.csproj",
+              "ToolTip": "C:\\Users\\liama\\source\\repos\\MeetingMinutes\\MeetingMinutes.csproj",
+              "RelativeToolTip": "MeetingMinutes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T20:18:37.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

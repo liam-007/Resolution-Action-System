@@ -1,0 +1,92 @@
+﻿@model List<MeetingMinutes.Models.Meeting>
+@using MeetingMinutes.Models
+
+@{
+    var meetingTypes = ViewBag.MeetingTypes as List<MeetingType>;
+}
+
+<div class="container mt-4">
+
+    <!-- Show any error message coming from the controller -->
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    <!-- Only shows validation summary when there are model errors -->
+    @if (!ViewData.ModelState.IsValid)
+    {
+        @Html.ValidationSummary(false, "", new { @class = "alert alert-danger" })
+    }
+
+
+    <div class="card">
+        <div class="card-body">
+
+            <h2 class="card-title mb-4">Update Existing Meetings</h2>
+
+            <!-- Filter -->
+            <form method="get" class="row g-3 mb-4">
+                <div class="col-md-6">
+                    <label class="form-label">Filter by Meeting Type</label>
+                    <select name="meetingTypeId" class="form-select">
+                        <option value="">-- All --</option>
+                        @if (meetingTypes != null)
+                        {
+                            foreach (var t in meetingTypes)
+                            {
+                                <option value="@t.MeetingTypeId">@t.Name</option>
+                            }
+                        }
+                    </select>
+                </div>
+                <div class="col-md-3 d-flex align-items-end">
+                    <button type="submit" class="btn btn-primary w-100">Filter</button>
+                </div>
+            </form>
+
+            <!-- Meeting List -->
+            @if (Model != null && Model.Any())
+            {
+                <table class="table table-striped table-bordered">
+                    <thead class="table-dark">
+                        <tr>
+                            <th style="width: 20%;">Code</th>
+                            <th style="width: 25%;">Type</th>
+                            <th style="width: 35%;">Date &amp; Time</th>
+                            <th style="width: 20%;"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var m in Model)
+                        {
+                            <tr>
+                                <td>@m.MeetingCode</td>
+                                <td>@m.MeetingType?.Name</td>
+                                <td>@m.MeetingDate.ToString("yyyy-MM-dd HH:mm")</td>
+                                <td>
+                                    <a asp-action="Details"
+                                       asp-route-id="@m.MeetingId"
+                                       class="btn btn-sm btn-outline-primary">
+                                        Open
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <div class="alert alert-warning">No meetings found.</div>
+            }
+
+            <div class="mt-4">
+                <a asp-controller="Home" asp-action="Index">Back to Home</a>
+            </div>
+
+        </div>
+    </div>
+</div>
