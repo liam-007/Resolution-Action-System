@@ -192,6 +192,5 @@ Choose one of:
 
 * The SQL script includes seeded data so the system is fully testable immediately
 * Code follows Chillisoft’s Use Case requirements
-* UI and logic were implemented in a clean, junior-developer friendly style
 * Controller methods include explanatory comments
 * Error messages and exception handling ensure safe usage
