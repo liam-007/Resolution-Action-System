@@ -34,9 +34,9 @@ and includes clean UI design, proper exception handling, and working seeded data
 
 ### **Meeting Details Page**
 
-```
-![Meeting Details](images/details_placeholder.png)
-```
+
+![Meeting Details](https://raw.githubusercontent.com/liam-007/Resolution-Action-System/main/Screenshots/Screenshot%202025-11-26%20145314.png)
+
 
 ---
 
