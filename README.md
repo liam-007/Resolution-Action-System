@@ -12,7 +12,7 @@ and includes clean UI design, proper exception handling, and working seeded data
 
 ---
 
-## 📸 **Screenshots (Placeholders)**
+## 📸 **Screenshots**
 
 ### **Home Screen**
 
