@@ -1,6 +1,6 @@
 # **Resolution Action System**
 
-The **Resolution Action System** is an ASP.NET Core MVC application built for the Chillisoft technical assessment.
+The **Resolution Action System** is an ASP.NET Core MVC application.
 It provides a structured way to capture meetings, carry forward previous meeting items, update item statuses, and maintain a complete log of ongoing actions.
 
 The system fully implements:
@@ -8,7 +8,7 @@ The system fully implements:
 * **Use Case 1** – Capture New Meeting
 * **Use Case 5** – Update Meeting Item Status
 
-and includes clean UI design, proper exception handling, and working seeded data so the reviewer can test immediately.
+and includes clean UI design, proper exception handling, and working seeded data so it can be tested immediately.
 
 ---
 
@@ -194,9 +194,9 @@ Choose one of:
 
 ---
 
-# 🔍 **Notes for Reviewers**
+# 🔍 **Notes for Testers**
 
 * The SQL script includes seeded data so the system is fully testable immediately
-* Code follows Chillisoft’s Use Case requirements
+* Code follows An Assessements Use Case requirements
 * Controller methods include explanatory comments
 * Error messages and exception handling ensure safe usage
