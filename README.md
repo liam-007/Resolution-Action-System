@@ -16,9 +16,10 @@ and includes clean UI design, proper exception handling, and working seeded data
 
 ### **Home Screen**
 
-```
-![Home Screen](images/home_placeholder.png)
-```
+
+![Home Screen](https://raw.githubusercontent.com/liam-007/Resolution-Action-System/main/Screenshots/Screenshot%202025-11-26%20145224.png)
+
+
 
 ### **Create Meeting Page**
 
